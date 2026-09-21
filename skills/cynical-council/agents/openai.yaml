@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cynical Council"
+  short_description: "Cztery perspektywy audytu kodu, zarzuty oparte na dowodach"
+  default_prompt: "Użyj $cynical-council do audytu bieżących zmian w repozytorium i przedstaw minimalne poprawki potwierdzonych błędów."
