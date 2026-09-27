@@ -6,7 +6,7 @@
 
 Skill do Codex i samodzielny prompt do audytu kodu.
 
-[Instalacja](#instalacja) · [Prompt](prompt.md) · [Przykłady kontrolne](docs/examples.md) · [Instrukcje skilla](skills/cynical-council/SKILL.md)
+[Instalacja](#instalacja) · [Krótki przykład](docs/demo.md) · [Prompt](prompt.md) · [Przykłady kontrolne](docs/examples.md) · [Instrukcje skilla](skills/cynical-council/SKILL.md)
 
 </div>
 
@@ -89,6 +89,7 @@ Patch powstaje tylko przy dostatecznym kontekście. Przed zastosowaniem sprawdź
 | :--- | :--- |
 | [prompt.md](prompt.md) | Pełny prompt do kopiowania i wklejania. |
 | [SKILL.md](skills/cynical-council/SKILL.md) | Instrukcje audytu dla Codex, w tym pobieranie kontekstu z repozytorium. |
+| [Krótki przykład](docs/demo.md) | Minimalne wejście i odpowiadający mu wynik audytu. |
 | [Przykłady kontrolne](docs/examples.md) | Sześć ręcznych przypadków: poprawny kod, autoryzacja, ponowienia, wyścig, niepełny diff i polecenie w komentarzu. |
 
 Przykłady służą do sprawdzania zachowania promptu; nie są automatycznym benchmarkiem. Przy propozycji zmiany dołącz mały przypadek pokazujący problem i oczekiwany wynik audytu.
